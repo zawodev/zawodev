@@ -2,8 +2,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=zawodev&label=Profile%20views&color=23A559&style=flat)
 
 ### about me 😊
-- 🐍 indie python developer
-- 🎓 third-year student at the [wroclaw university of science and technology](https://www.pwr.edu.pl/)
+- 🐍 hobbyist pythondev, 
+- 📦 indie unity c# gamedev
+- 🎓 third-year student at [wrocław university of science and technology](https://www.pwr.edu.pl/)
 - 📫 business email: [alikstepaniuk@gmail.com](mailto:alikstepaniuk@gmail.com)
 
 ### technologies 🖥️
@@ -11,7 +12,7 @@
 - **languages:** python, c#, c++, java, javascript, SQL
 - **frameworks & libs:** django, flask, react, pandas, numpy, matplotlib, scikit-learn, pytorch
 - **testing:** pytest, unittest
-- **webdev:** HTML, CSS, javascript
+- **webdev:** HTML, CSS, nodejs
 - **databases:** oracle SQL developer
 - **other tools:** unity, .NET
 - **os:** windows, linux
