@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=zawodev&label=Profile%20views&color=23A559&style=flat)
 
 ### about me 😊
-- 🐍 hobbyist pythondev, 
+- 🐍 hobbyist pythondev
 - 📦 indie unity c# gamedev
 - 🎓 third-year student at [wrocław university of science and technology](https://www.pwr.edu.pl/)
 - 📫 business email: [alikstepaniuk@gmail.com](mailto:alikstepaniuk@gmail.com)
