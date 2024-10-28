@@ -1,4 +1,5 @@
 <h1 align="left">👋hi, zawodev here👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zawodev&label=Profile%20views&color=23A559&style=flat" alt="zawodev" /> </p>
 
 #### i like coding in my free time
 
@@ -6,7 +7,7 @@
 - 🎓 third year student at the [Wroclaw University of Science and Technology](https://www.pwr.edu.pl/)
 - 📫 business email: alikstepaniuk@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zawodev&label=Profile%20views&color=23A559&style=flat" alt="zawodev" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zawodev&theme=onedark" alt="zawodev" /></a> </p>
 <!--- <p align="left"> <a href="https://twitter.com/zawodev" target="blank"><img src="https://img.shields.io/twitter/follow/zawodev?logo=twitter&style=for-the-badge" alt="zawodev" /></a> </p> --->
 
@@ -26,7 +27,7 @@
 </p>
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zawodev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="zawodev" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zawodev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="zawodev" />
 </p>
 
 ### Find me on: 🐦
