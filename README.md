@@ -5,7 +5,7 @@
 - 🐍 hobbyist pythondev
 - 📦 indie unity c# gamedev
 - 🎓 third-year student at [wrocław university of science and technology](https://www.pwr.edu.pl/)
-- 📫 business email: [alikstepaniuk@gmail.com](mailto:alikstepaniuk@gmail.com)
+- 📫 contact email: [alikstepaniuk@gmail.com](mailto:alikstepaniuk@gmail.com)
 
 ### technologies 🖥️
 
