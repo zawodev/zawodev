@@ -13,7 +13,7 @@
 - **frameworks & libs:** django, flask, react, pandas, numpy, matplotlib, scikit-learn, pytorch
 - **testing:** pytest, unittest
 - **webdev:** HTML, CSS, nodejs
-- **databases:** oracle SQL developer
+- **databases:** oracle SQL developer, MSSQL, PLSQL
 - **other tools:** unity, .NET
 - **os:** windows, linux
 
